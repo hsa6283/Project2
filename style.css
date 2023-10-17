@@ -69,6 +69,7 @@ nav ul { /*상단바*/
     text-align: center;
     font-family: 'Roboto', sans-serif;
     font-size: large;
+    font-weight: bold;
   }
   
   iframe { /*동영상*/
