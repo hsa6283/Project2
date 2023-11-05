@@ -78,6 +78,21 @@ iframe { /*동영상*/
   position: static;
   border: 0;
 }
+
+.site-title-wrap{
+  width: 100%;
+  position: relative;
+  padding-bottom: 10px;
+}
+
+.site-title{
+  color: #4a4a4a;
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 40px;
+  padding-left: 50px;
+  margin: 0px auto;
+}
+
 #img1 { /*사진*/
   height: auto;
   width: 45%;
